@@ -80,3 +80,35 @@ THEN 1
 ELSE 0
 END
 
+
+
+FONTE DOS DADOS
+
+Bases
+
+População, PIB, Microrregião e Macroregião
+
+2010 - 2016
+
+https://downloads.ibge.gov.br/downloads_estatisticas.htm
+
+
+Qtd de Alunos Rede Publica
+
+2010 (CENSO 2010)
+
+https://downloads.ibge.gov.br/downloads_estatisticas.htm
+
+Area Municipios
+
+2010-2018
+
+https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/15761-areas-dos-municipios.html?=&t=downloads
+
+
+Distancia até a capital
+
+http://www.anuariodefortaleza.com.br/infraestrutura/distancia-de-fortaleza-aos-municipios.php
+
+Acesso: 27/05/2019
+
